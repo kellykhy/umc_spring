@@ -17,3 +17,5 @@ public class FoodCategory extends BaseEntity {
     @Column(nullable = false, length = 15)
     private String name;
 }
+
+//testing git
